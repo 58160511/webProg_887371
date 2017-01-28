@@ -6,10 +6,10 @@ body {
 body {
     margin: 0px;
     padding: 0px;
-    background: #58534F;
+    background: #FF9797;
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
-    color: #4F4F4F;
+    color: #FF66FF;
 }
 
 h1,
@@ -18,7 +18,7 @@ h3 {
     margin: 0;
     padding: 0;
     font-family: 'Archivo Narrow', sans-serif;
-    color: #322F2A;
+    color: #FF66FF;
 }
 
 p,
@@ -79,7 +79,7 @@ ul.style1 li {
 
 ul.style1 a {
     text-decoration: none;
-    color: #6e6d6d;
+    color: #FF66FF;
 }
 
 ul.style1 a:hover {
@@ -118,8 +118,8 @@ ul.style1 .first {
 #header-wrapper {
     overflow: hidden;
     height: 150px;
-    background: #58534F;
-    border-bottom: 1px solid #3B3B3A;
+    background: #FF9797;
+    border-bottom: 1px solid #FF9797;
 }
 
 #header {
